@@ -75,5 +75,5 @@ return {
       { ',v', '<cmd>VenvSelect<cr>' },
     },
   },
-  { 'tpop/nvim-fugitive' },
+  { 'tpope/vim-fugitive' },
 }
